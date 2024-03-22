@@ -1,0 +1,20 @@
+#container{
+    height:200px;
+    display: flex;
+    align-items: flex-end;
+}
+    
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color: #161819;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+/* Change bars in JS */
+.bar{
+    width: 10px;
+    background-color: #95b4c5;
+    margin: 1px;
+}
