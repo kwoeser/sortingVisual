@@ -11,11 +11,11 @@ Visualization of popular sorting algorithms such as:
   - **Merge Sort**
   - **Quick Sort**
 
-Audio feedback synchronized with the sorting operations.
 Two buttons Init and Play.
  - **Init -> Creates a new array**
  - **Play -> Sorts the current array and plays synchronized audio**
 
+Audio feedback synchronized with the sorting operations.
 
 ## How to use
 1. Clone or download project
