@@ -14,8 +14,8 @@ Visualization of popular sorting algorithms such as:
 
 Audio feedback synchronized with the sorting operations.
 Two buttons Init and Play
- **Init -> Creates a new array**
- **Play -> Sorts the current array and plays synchronized audio**
+ - **Init -> Creates a new array**
+ - **Play -> Sorts the current array and plays synchronized audio**
 
 
 ## How to use
