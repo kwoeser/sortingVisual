@@ -13,7 +13,8 @@ Visualization of popular sorting algorithms such as:
   - **Quick Sort**
 
 Audio feedback synchronized with the sorting operations.
-.Two buttons Init and Play.
+
+Two buttons Init and Play.
  - **Init -> Creates a new array**
  - **Play -> Sorts the current array and plays synchronized audio**
 
